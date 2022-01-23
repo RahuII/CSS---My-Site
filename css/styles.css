@@ -33,7 +33,7 @@ hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 4%;
-  margin: 100px auto;
+  margin: 50px auto;
 }
 
 a {
@@ -101,16 +101,21 @@ a:hover {
 }
 
 .code-img {
-  width: 35%;
+  width: 40%;
   float: left;
-  margin-right: 30px;
 }
 
 .profile-img {
   width: 20%;
 }
 
-.chilli-img {
+.college-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.data-structure-img {
   width: 25%;
   float: right;
   margin-left: 30px;
